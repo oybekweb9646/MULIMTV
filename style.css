@@ -84,6 +84,7 @@ left: -25px;
     right: 0;
     bottom: 0;
 
+
 }
 
 .MagicScroll{
@@ -91,9 +92,13 @@ left: -25px;
 }
 
 .youtube {
-    height: 500px;
+    height: 70vh;
 }
 .list {
-    height: 500px;
+    height: 70vh;
     overflow-y: auto;
+}
+
+.mcs-button {
+    outline: none!important;
 }
