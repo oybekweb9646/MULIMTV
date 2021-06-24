@@ -102,3 +102,23 @@ left: -25px;
 .mcs-button {
     outline: none!important;
 }
+.play {
+    position: absolute;
+    top: calc(50% - 25px);
+    left: 0;
+    color: white;
+    width: 50px!important;
+    height: 50px!important;
+    z-index: 20;
+}
+
+.play1 {
+    position: absolute;
+    top: calc(50% - 25px);
+    left: calc(50% - 25px);
+    color: white;
+    width: 50px!important;
+    height: 50px!important;
+    z-index: 20;
+}
+
