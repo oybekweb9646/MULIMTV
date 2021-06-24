@@ -92,10 +92,10 @@ left: -25px;
 }
 
 .youtube {
-    height: 70vh;
+    height: 350px;
 }
 .list {
-    height: 70vh;
+    height: 350px;
     overflow-y: auto;
 }
 
