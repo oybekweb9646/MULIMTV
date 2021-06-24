@@ -1,0 +1,91 @@
+.navColor {
+    color: #146c90;
+    font-weight: bold;
+}
+.navButton {
+    border: 1px #146c90 solid!important;
+    border-radius: 10px!important;
+    color: #146c90!important;
+    background-color: transparent;
+}
+
+.header{
+    background-color: #000000;
+}
+
+.bg-main{
+    background-color: #f1f1f1;
+}
+.MagicScroll-horizontal .mcs-button-arrow-next{
+    border-radius: 50%;
+    height: 50px;
+    background-color: white;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1!important;
+    right: -25px;
+}
+.MagicScroll-horizontal .mcs-button-arrow-prev{
+    border-radius: 50%;
+    height: 50px;
+    background-color: white;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1!important;
+left: -25px;
+}
+.MagicScroll-horizontal .mcs-button-arrow-next:before{
+    left: 44%;
+}
+.MagicScroll-horizontal .mcs-button-arrow-prev:before{
+    left: 53%;
+}
+.mcs-wrapper{
+    left: 0!important;
+    right: 0!important;
+}
+
+
+.MagicScroll :nth-child(1) {
+    font-size: 0px;
+}
+
+.textVideo{
+    font-size: 20px!important;
+    font-weight: 700;
+    margin-top: 10px!important;
+}
+
+.textTop{
+    font-weight: 700;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.footer h5 {
+    margin-bottom: 0;
+    color: white;
+    font-weight: 700;
+}
+.bg{
+    display: none!important;
+}
+
+.img-video{
+    position: absolute!important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+}
+
+.MagicScroll{
+    height: 192px!important;
+}
