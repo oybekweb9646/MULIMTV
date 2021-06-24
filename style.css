@@ -89,3 +89,11 @@ left: -25px;
 .MagicScroll{
     height: 192px!important;
 }
+
+.youtube {
+    height: 500px;
+}
+.list {
+    height: 500px;
+    overflow-y: auto;
+}
